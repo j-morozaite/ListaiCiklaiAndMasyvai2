@@ -220,5 +220,5 @@ print(result)
 # for i in range(10):  # 10 eilučių
 #     print('* ' * 10)  # 10 žvaigždučių kiekvienoje eilutėje
 
-testukas
+
 
